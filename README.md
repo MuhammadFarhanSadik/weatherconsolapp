@@ -24,3 +24,13 @@ This is a simple Java-based console application that fetches and displays real-t
 - *Polymorphism*: Used in method behavior between classes.
 - *Abstraction*: Implementation details are hidden in reusable methods.
 
+## Setup Instructions
+1. Clone the repository
+2. Add the org.json library to your project classpath
+3. Run WeatherConsoleApp.java
+
+## Author
+Farhan Sadik
+
+## Reference
+- [OpenWeatherMap API](https://openweathermap.org/api)
